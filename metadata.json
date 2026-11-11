@@ -1,0 +1,10 @@
+{
+  "name": "trickster-tiles-c64",
+  "title": "Trickster Tiles C64",
+  "author": "Teletype Games",
+  "desc": "The Commodore 64 port of Trickster Tiles, the small pixel-art platformer: hop, jump, and outwit moving spikes and disappearing tiles across 10 levels.",
+  "site": "https://git.teletypegames.org/games/trickster-tiles-c64",
+  "repo": "https://git.teletypegames.org/games/trickster-tiles-c64",
+  "license": "MIT",
+  "version": "1.0.0"
+}
